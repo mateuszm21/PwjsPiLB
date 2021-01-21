@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<carbs>
+	<carb>
+		<name>Aisan</name>
+		<barrels>2</barrels>
+		<type>Fixed_venturi</type>
+	</carb>
+	<carb>
+		<name>Weber</name>
+		<barrels>2</barrels>
+		<type>Fixed_venturi</type>
+	</carb>
+	<carb>
+		<name>SU</name>
+		<barrels>1</barrels>
+		<type>CV</type>
+	</carb>
+	<carb>
+		<name>Dellorto</name>
+		<barrels>2</barrels>
+		<type>Side_draft</type>
+	</carb>
+</carbs>

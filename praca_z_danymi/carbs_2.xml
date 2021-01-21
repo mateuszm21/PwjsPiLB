@@ -1,0 +1,22 @@
+<?xml version="1.0" ?><carbs>
+	<carb>
+		<name>Aisan</name>
+		<barrels>2</barrels>
+		<type>unknown</type>
+	</carb>
+	<carb>
+		<name>Weber</name>
+		<barrels>2</barrels>
+		<type>unknown</type>
+	</carb>
+	<carb>
+		<name>SU</name>
+		<barrels>1</barrels>
+		<type>unknown</type>
+	</carb>
+	<carb>
+		<name>Dellorto</name>
+		<barrels>2</barrels>
+		<type>unknown</type>
+	</carb>
+</carbs>
